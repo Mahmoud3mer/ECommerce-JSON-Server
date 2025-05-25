@@ -1,0 +1,328 @@
+{
+  "users": [
+    {
+      "email": "amer@gmail.com",
+      "password": "$2a$10$sFEXAM7G3VW7Vq5PDVCrb.SJvck6iJ1yDgx.kLagggaiK5V0BoKS6",
+      "firstName": "Ali",
+      "lastName": "Amer",
+      "id": 1
+    },
+    {
+      "email": "amer1@gmail.com",
+      "password": "$2a$10$6KKibZ0XEnlrIrNHrkv4.uuZ4OHKiQ8jScbLJJR7KcCF4o.0a8cEa",
+      "firstName": "Amer",
+      "lastName": "Ali",
+      "id": 2
+    },
+    {
+      "email": "amers@gmail.com",
+      "password": "$2a$10$gHi9yi15pXumeLgCnsx15ekek2h8eJ71UhgaRG7VrBYMkLW7j5vkq",
+      "firstName": "Ali",
+      "lastName": "amer",
+      "id": 3
+    },
+    {
+      "email": "amermahmoud@gmail.com",
+      "password": "$2a$10$COQft3k2kL9NaKI3OSNiyup2rfy4xdxHngUlfn/9XdXgnfKHuGu7W",
+      "firstName": "Amer",
+      "lastName": "Ali",
+      "id": 4
+    },
+    {
+      "email": "amermahmoucd@gmail.com",
+      "password": "$2a$10$bFNHKcs76fVXH6lV22PTk.WuQvTyFZ3NmT1cm1hN9cTimTVlwYkeO",
+      "firstName": "Anas",
+      "lastName": "Mustafa",
+      "id": 5
+    },
+    {
+      "email": "amer22@gmail.com",
+      "password": "$2a$10$Rg0IP1VyU8cQJmsu5N9YHebsbrsjt/a633uL.ThhBPzuDof9W29w2",
+      "firstName": "Mahmoud",
+      "lastName": "Amer",
+      "id": 6
+    },
+    {
+      "email": "aseel-mustafa@gmail.com",
+      "password": "$2a$10$6yYPNGdK.htKfqwSgESlketHhF.SfIzL0L8NP4p5fqmUoylzf1jOG",
+      "firstName": "Aseel",
+      "lastName": "Mustafa",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "men",
+      "prefix": "men",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+    },
+    {
+      "id": 2,
+      "title": "women",
+      "prefix": "women",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+    },
+    {
+      "id": 3,
+      "title": "electronics",
+      "prefix": "electronics",
+      "img": "https://img.freepik.com/free-photo/headphones-audio-listen_1203-7566.jpg?uid=R201677674&ga=GA1.1.2018993801.1748177385&semt=ais_hybrid&w=740"
+    },
+    {
+      "id": 4,
+      "title": "jewelery",
+      "prefix": "jewelery",
+      "img": "https://img.freepik.com/free-photo/display-shiny-elegant-gold-chain_23-2149635328.jpg?uid=R201677674&ga=GA1.1.2018993801.1748177385&semt=ais_hybrid&w=740"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "cat_prefix": "men",
+      "img": "https://fakestoreapi.com/img/81fPKd-2AYL",
+      "max": 7
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "cat_prefix": "men",
+      "img": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "max": 3
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "cat_prefix": "men",
+      "img": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "max": 8
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "cat_prefix": "men",
+      "img": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "max": 5
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "cat_prefix": "jewelery",
+      "img": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "max": 2
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "cat_prefix": "jewelery",
+      "img": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "max": 4
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "cat_prefix": "jewelery",
+      "img": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "max": 6
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "cat_prefix": "jewelery",
+      "img": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "max": 1
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "cat_prefix": "electronics",
+      "img": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "max": 10
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "cat_prefix": "electronics",
+      "img": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "max": 9
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost",
+      "price": 109,
+      "cat_prefix": "electronics",
+      "img": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "max": 3
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "cat_prefix": "electronics",
+      "img": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "max": 4
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "cat_prefix": "electronics",
+      "img": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "max": 2
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor",
+      "price": 999.99,
+      "cat_prefix": "electronics",
+      "img": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "max": 1
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "cat_prefix": "women",
+      "img": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "max": 6
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "cat_prefix": "women",
+      "img": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "max": 4
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "cat_prefix": "women",
+      "img": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "max": 8
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "cat_prefix": "women",
+      "img": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "max": 5
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "cat_prefix": "women",
+      "img": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "max": 7
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "cat_prefix": "women",
+      "img": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "max": 9
+    }
+  ],
+  "wishlist": [],
+  "orders": [
+    {
+      "userId": 5,
+      "items": [
+        {
+          "id": 2,
+          "title": "Regular Fit Jersey top",
+          "quantity": 1,
+          "price": "229.00",
+          "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cotton polo shirt",
+          "quantity": 1,
+          "price": "200.00",
+          "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Cotton t-shirt",
+          "quantity": 1,
+          "price": "100.00",
+          "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        }
+      ],
+      "subtotal": 529,
+      "id": 1
+    },
+    {
+      "userId": 5,
+      "items": [
+        {
+          "id": 2,
+          "title": "Regular Fit Jersey top",
+          "quantity": 1,
+          "price": "229.00",
+          "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        }
+      ],
+      "subtotal": 229,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "items": [
+        {
+          "id": 2,
+          "title": "Regular Fit Jersey top",
+          "quantity": 1,
+          "price": "229.00",
+          "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        }
+      ],
+      "subtotal": 229,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "items": [
+        {
+          "id": 3,
+          "title": "Cotton polo shirt",
+          "quantity": 1,
+          "price": "200.00",
+          "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        }
+      ],
+      "subtotal": 200,
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "items": [
+        {
+          "id": 4,
+          "title": "Cotton t-shirt",
+          "quantity": 1,
+          "price": "100.00",
+          "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        }
+      ],
+      "subtotal": 100,
+      "id": 5
+    }
+  ]
+}
